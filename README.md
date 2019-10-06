@@ -1,10 +1,5 @@
----
-title: You don't have to use Redux
-published: true
-description: 
-tags: React, Redux, Context API, Javascript
----
 
+This is my first article, published [here](https://dev.to/anssamghezala/you-don-t-have-to-use-redux-32a6). Voted top 7 of the week 🏅 
 ---
 
 A React application is basically a tree of components that communicate data with each other. Passing data between components is often painless. However, as the app tree grows, it becomes harder to pass that data while maintaining a sound & readable codebase.
